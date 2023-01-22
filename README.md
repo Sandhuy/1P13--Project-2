@@ -1,9 +1,9 @@
 # 1P13-Project-2 Design a System for Sterilizing Surgical Tools using Remote Sensing and Actuation
 ## Robotic Arm Programming ##
 
-Program a robotic arm t osort through different types of containers and depositing them into the appropriate bins.
+Program a robotic arm to sort through different types of containers and depositing them into the appropriate bins.
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90667859/213938099-f219cfe7-221c-4007-a7a7-bf747617a3b4.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90667859/213938809-6b9e5a98-3043-4002-9673-1e038cfb008d.gif)
 
 
 ## Modelling a Sterilization Container ##
